@@ -2,6 +2,7 @@
   text-align: center;
   font-family: monospace;
   max-width: 800px;
+  margin: 0 auto;
 }
 
 .drag-drop-board {
@@ -28,4 +29,5 @@
   justify-content: center;
   margin: 5px;
   padding: 5px;
+  cursor: pointer;
 }
