@@ -29,5 +29,8 @@
   justify-content: center;
   margin: 5px;
   padding: 5px;
-  cursor: pointer;
+}
+
+.task-card:hover {
+    cursor: pointer;
 }
